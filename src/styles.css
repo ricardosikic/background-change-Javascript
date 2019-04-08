@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.cuadro {
+  margin: 0 auto;
+  margin-top: 250px;
+  background: yellow;
+  width: 400px;
+  height: 100px;
+  padding: 10px 10px 10px 10px;
+}
+
+h1 {
+  margin-left: 50px;
+  margin-top: 25px;
+}
